@@ -475,13 +475,29 @@ export const sidebar = {
           link: '/tutorial/#step-1'
         },
         {
-          text: '2. Handling User Input',
+          text: '2. Binding Dynamic Attributes',
           link: '/tutorial/#step-2'
         },
         {
-          text: '2. Conditional Rendering',
+          text: '3. Listening to Events',
           link: '/tutorial/#step-3'
-        }
+        },
+        {
+          text: '4. Two-Way Binding',
+          link: '/tutorial/#step-4'
+        },
+        {
+          text: '5. Conditional Rendering',
+          link: '/tutorial/#step-5'
+        },
+        {
+          text: '6. Event Modifiers',
+          link: '/tutorial/#step-6'
+        },
+        {
+          text: '7. More on Conditional Rendering',
+          link: '/tutorial/#step-7'
+        },
       ]
     }
   ]
